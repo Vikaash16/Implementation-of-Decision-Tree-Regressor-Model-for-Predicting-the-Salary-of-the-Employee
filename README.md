@@ -75,7 +75,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+
 data head() :
 
 ![image](https://github.com/user-attachments/assets/a18a2181-6305-4810-8193-f0284cf44781)
